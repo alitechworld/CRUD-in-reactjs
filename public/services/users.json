@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "User1",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "id": "1",
+      "name": "User2",
+      "description": "Lorem Ipsum"
+    },
+    {
+      "id": "2",
+      "name": "User3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    }
+  ]
+}
