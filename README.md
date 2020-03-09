@@ -1,10 +1,20 @@
-# Crud in ReactJS
+# CRUD in ReactJS
 
-This project is a simple and basic CRUD in ReactJS, which is developed in single page with different files/components.
+This project is a basic and simple CRUD in ReactJS, which is developed in single page with different files/components.
 
 ## Local Development
 
-In the project directory, you can run:
+Install Node JS: 
+
+[https://nodejs.org/en/download](https://nodejs.org/en/download)
+
+In the project directory:
+
+Install ReactJS as 
+
+### `npm install` 
+
+and run, as
 
 ### `npm start`
 
